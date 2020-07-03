@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![ranah-kembang](4MB.gif)
+![ranah-kembang](https://github.com/junwatu/junwatu/blob/master/4MB.gif)
 
 Currently i'm in ❤️ with game development.
 
