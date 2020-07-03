@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![ranah-kembang](4MB.gif)
+
+Currently i'm in ❤️ with game development.
+
 <!--
 **junwatu/junwatu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
