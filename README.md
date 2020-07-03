@@ -8,10 +8,11 @@ Currently i'm in ❤️ with game development.
 
 ### Buy Me A Coffee? ☕
 
-👕 Head over [here](https://designbyhumans.com/equan) please. Thanks.
+👕 Head over [here](https://designbyhumans.com/equan) please.
 
 🎮 You can subscribe [here](https://www.youtube.com/channel/UCjPcrCmHn3Da3sE6mJDIUEg) for free.
 
+Thanks.
 <!--
 **junwatu/junwatu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
