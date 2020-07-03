@@ -4,13 +4,13 @@
 
 Currently i'm in ❤️ with game development.
 
-> ⚡ **Fun fact**
->
-> I'm a noob player 😄
+⚡ **Fun fact:** *I'm a noob player* 😄
 
-### How to support me?
+### Buy Me A Coffee? ☕
 
-*Head over here please* [👕](https://designbyhumans.com/equan)
+👕 Head over [here](https://designbyhumans.com/equan) please. Thanks.
+
+🎮 You can subscribe [here](https://www.youtube.com/channel/UCjPcrCmHn3Da3sE6mJDIUEg) for free.
 
 <!--
 **junwatu/junwatu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
