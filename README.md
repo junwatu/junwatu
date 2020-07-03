@@ -8,9 +8,9 @@ Currently i'm in ❤️ with game development.
 >
 > I'm a noob player 😄
 
-#### Want to support me?
+### How to support me?
 
-Head over here [👕](https://designbyhumans.com/equan)
+*Head over here please* [👕](https://designbyhumans.com/equan)
 
 <!--
 **junwatu/junwatu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
