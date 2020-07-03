@@ -10,7 +10,7 @@ Currently i'm in ❤️ with game development.
 
 👕 Head over [here](https://designbyhumans.com/equan) please.
 
-🎮 You can subscribe [here](https://bit.ly/2USSCK3) for free.
+🎮 or You can subscribe [here](https://bit.ly/2USSCK3) for free.
 
 Thanks.
 <!--
