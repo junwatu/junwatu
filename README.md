@@ -6,7 +6,7 @@ Currently i'm in ❤️ with game development.
 
 ⚡ **Fun fact:** *I'm a noob player* 😄
 
-### Buy Me A Coffee? ☕
+### buy me a coffee? ☕
 
 👕 Head over [here](https://designbyhumans.com/equan) please.
 
