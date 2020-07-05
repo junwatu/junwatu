@@ -6,6 +6,11 @@ Currently i'm in ❤️ with game development.
 
 ⚡ **Fun fact:** *I'm a noob player* 😄
 
+
+I still maintaining a few projects [@kalenderjawa](https://github.com/kalenderjawa) and [@sajenid](https://github.com/sajenid).
+
+> Please note that those projects are culture specific but feel free to use, fork, PR or even share it.
+
 ### buy me a coffee? ☕
 
 👕 Head over [here](https://designbyhumans.com/equan) please.
