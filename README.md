@@ -4,10 +4,10 @@
 
 Currently i'm in ❤️ with game development.
 
-⚡ **Fun fact:** *I'm a noob player* 😄
+⚡ **Fun fact:** *I'm a noob game player* 😄
 
 
-I still maintaining a few projects [@kalenderjawa](https://github.com/kalenderjawa) and [@sajenid](https://github.com/sajenid).
+👨‍💻 I still maintaining a few projects [@kalenderjawa](https://github.com/kalenderjawa) and [@sajenid](https://github.com/sajenid).
 
 > Please note that those projects are culture specific but feel free to use, fork, PR or even share it.
 
