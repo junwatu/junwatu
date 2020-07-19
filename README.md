@@ -13,7 +13,7 @@ Currently i'm in ❤️ with game development.
 
 ### buy me a coffee? ☕
 
-👕 Head over [here](https://designbyhumans.com/equan) please.
+👕 Head over [here](https://designbyhumans.com/shop/equan) please.
 
 🎮 or You can subscribe [here](https://bit.ly/2USSCK3) for free.
 
