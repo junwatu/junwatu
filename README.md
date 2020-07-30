@@ -11,7 +11,7 @@ Currently i'm in ❤️ with game development.
 
 > Please note that those projects are culture specific but feel free to use, fork, PR or even share it.
 
-### buy me a coffee? ☕
+### buy me a coffee?
 
 👕 Head over [here](https://designbyhumans.com/shop/equan) please.
 
