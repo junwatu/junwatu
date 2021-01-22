@@ -5,5 +5,5 @@
   </a>
 </p>
 
-<p align="center">I ❤️ [art](https://www.designbyhumans.com/shop/equan) & [programming](https://sajen.id)</p>
+<p align="center">I ❤️ <a href="https://www.designbyhumans.com/shop/equan" title="DBH Shop">art</a> & <a href="https://sajen.id" title="My Site">programming</a></p>
 
