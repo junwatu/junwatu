@@ -5,5 +5,5 @@
   </a>
 </p>
 
-<p align="center">I ❤️ art & programming</p>
+<p align="center">I ❤️ [art](https://www.designbyhumans.com/shop/equan) & [programming](https://sajen.id)</p>
 
