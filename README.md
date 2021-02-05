@@ -8,4 +8,4 @@ I ♥ [art](https://www.designbyhumans.com/shop/equan) and [programming](https:/
 
 ...and I dare You to click this link 👉 [**Stratovolcano**](https://www.designbyhumans.com/shop/t-shirt/men/stratovolcano/1545593/).
 
-😁
+Thank You for visiting my github profile! 😁
