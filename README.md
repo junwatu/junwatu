@@ -10,8 +10,6 @@ I ♥ Art & anything about Programming (currently i do web and game development)
 
 ```
 
-![](https://avatars.githubusercontent.com/u/52613786?s=200&v=4)
-
 **Projects**
 
 🚀 [kalenderjawa.dev](https://kalenderjawa.dev)
@@ -27,3 +25,7 @@ I ♥ Art & anything about Programming (currently i do web and game development)
 🎮 [Let's Game on Steam](https://steamcommunity.com/id/pangurakan)😁
 
 🛒 [MyShop](https://www.designbyhumans.com/shop/equan) 🙏
+
+
+
+![](https://raw.githubusercontent.com/junwatu/junwatu/master/sajenid-tree.png)
