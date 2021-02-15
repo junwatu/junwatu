@@ -27,5 +27,6 @@ I ♥ Art & anything about Programming (currently i do web and game development)
 🛒 [MyShop](https://www.designbyhumans.com/shop/equan) 🙏
 
 
-
-![](https://raw.githubusercontent.com/junwatu/junwatu/master/sajenid-tree.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/junwatu/junwatu/master/sajenid-tree.png">
+</p>
