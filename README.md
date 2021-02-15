@@ -22,9 +22,9 @@ I ♥ Art & anything about Programming (currently i do web and game development)
 
 **Extras**
 
-🎮 [`Let's Game on Steam`](https://steamcommunity.com/id/pangurakan)😁
+🎮 [`Let's Game on Steam`](https://steamcommunity.com/id/pangurakan)✌
 
-🛒 [`MyShop`](https://www.designbyhumans.com/shop/equan) 🙏
+🛒 [`My Eternal Shop`](https://www.designbyhumans.com/shop/equan) 🙏
 
 
 <p align="center">
