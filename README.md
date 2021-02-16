@@ -16,11 +16,11 @@ I ♥ Art & anything about Programming (currently i do web and game development)
 
 🚀 [`sajen.id`](https://sajen.id)
 
-**Contacts**
+**Boring Stuff**
 
 🎯 [`@junwatu`](https://twitter.com/junwatu)
 
-**Extras**
+**Have Fun**
 
 🎮 [`Let's Game on Steam`](https://steamcommunity.com/id/pangurakan)✌
 
