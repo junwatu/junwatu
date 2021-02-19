@@ -1,3 +1,4 @@
+![kontribusi-junwatu](https://github.com/junwatu/junwatu/blob/master/junwatu-2020.png)
 
 ```
 Halo! 👋.
