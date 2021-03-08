@@ -10,4 +10,6 @@ The main project that i'm working on right now is 🚀 [**Pustaka**](https://kal
   <img src="https://raw.githubusercontent.com/junwatu/junwatu/master/sajenid-tree.png">
 </p>
 
-Thanks for visiting.
+<p align="center">
+  <spanThanks for visiting.</span>
+</p>
