@@ -1,7 +1,7 @@
 
-Halo! 👋, My name is Equan.
+![phon](https://raw.githubusercontent.com/junwatu/junwatu/master/sajenid-tree.png)
 
- ![phon](https://raw.githubusercontent.com/junwatu/junwatu/master/sajenid-tree.png)
+Halo! 👋, My name is Equan.
 
 I am Javanese.
 I ♥ Art & anything about Programming  and currently i do web and game development.
