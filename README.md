@@ -3,7 +3,7 @@
 
 Halo! 👋, My name is Equan
 
-I am Javanese (I live on island called ꦗꦮ, means Java)
+I am Javanese (I live on island called ꦗꦮ, means *Jawa*)
 
 I ♥ art & anything about programming and currently i do web & game development
 
