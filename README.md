@@ -5,7 +5,7 @@ Halo! 👋, My name is Equan,
 
 I am Javanese,
 
-I live on island called ꦗꦮ ("Jawa" word written in Hanacaraka),
+I live on island called ꦗꦮ ("Jawa" word written in Hanacaraka), in English known as Java. 
 
 I ♥ art & anything about software and or hardware programming,
 
