@@ -14,5 +14,3 @@ I write about programming too at 🚀 https://sajen.id,
 
 Thank you for visiting my profile 🍻.
 ```
-
-![phon](https://raw.githubusercontent.com/junwatu/junwatu/master/sajenid-tree.png)
