@@ -1,10 +1,14 @@
 
-# Halo! 👋, 
+Hai 👋, My name is Equan Pr.
 
-## My name is Equan,
+I am Javanese and currently live in Java Island (East Java, Indonesia).
 
-## Project
+I 💘 programming and coffee ☕.
 
-[🚀 Kalender Jawa](https://kalenderjawa.dev)
+🚀 Project 🔥
+---
 
-Thank you for visiting my profile 🍻.
+[https://kalenderjawa.dev](https://kalenderjawa.dev)
+
+This project is JavaSript Javanese calendar library and UI development.
+
