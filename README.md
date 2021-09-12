@@ -10,5 +10,5 @@ I 💘 programming and coffee ☕.
 
 [https://kalenderjawa.dev](https://kalenderjawa.dev)
 
-This pro bono project is dedicated to JavaSript Javanese calendar library and UI development.
+This pro bono project is dedicated for JavaSript Javanese calendar library and UI development.
 
