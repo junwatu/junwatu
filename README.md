@@ -1,16 +1,10 @@
 
-```
-Halo! 👋, My name is Equan,
+# Halo! 👋, 
 
-I am Javanese,
+## My name is Equan,
 
-I live on island called ꦗꦮ ("Jawa" word written in Hanacaraka), in English known as Java. 
+## Project
 
-I ♥ art & anything about software and or hardware programming,
-
-The main project that i'm working on right now is 🚀 https://kalenderjawa.dev,
-
-I write about programming too at 🚀 https://sajen.id,
+[🚀 Kalender Jawa](https://kalenderjawa.dev)
 
 Thank you for visiting my profile 🍻.
-```
