@@ -1,7 +1,7 @@
 
 Hai 👋, My name is Equan Pr.
 
-I am Javanese and currently live in Java Island (East Java, Indonesia).
+I am Javanese and currently live on Java Island (East Java, Indonesia).
 
 I 💘 programming and coffee ☕.
 
@@ -10,5 +10,5 @@ I 💘 programming and coffee ☕.
 
 [https://kalenderjawa.dev](https://kalenderjawa.dev)
 
-This project is JavaSript Javanese calendar library and UI development.
+This pro bono project is dedicated to JavaSript Javanese calendar library and UI development.
 
