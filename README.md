@@ -8,7 +8,11 @@ I 💘 programming and coffee ☕.
 🚀 Project 🔥
 ---
 
-[https://kalenderjawa.dev](https://kalenderjawa.dev)
+🗺️ [https://kalenderjawa.dev](https://kalenderjawa.dev)
+
+🐙 [Repository](https://github.com/kalenderjawa)
+
+🤖 [Twitter](https://twitter.com/KalenderJawaDev)
 
 This is pro bono project and dedicated for Javanese Calendar library development.
 
