@@ -1,7 +1,7 @@
 
 Hello 👋, My name is Equan Pr.
 
-🎯Learning Blockchain
+🎯 Learning Blockchain
 
 ⚒️ Vue.js, Node.js & MongoDB
 
