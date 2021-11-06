@@ -1,18 +1,10 @@
 
-Hai 👋, My name is Equan Pr.
+Hello 👋, My name is Equan Pr.
 
-I am Javanese and currently live on Java Island (East Java, Indonesia).
+🎯Learning Blockchain
 
-I 💘 programming and coffee ☕.
+⚒️ Vue.js, Node.js & MongoDB
 
-🚀 Project 🔥
----
+🧑‍💻 Windows 11 + WSL
 
-🗺️ [Website 👉 https://kalenderjawa.dev](https://kalenderjawa.dev)
-
-🐙 [Github 👉 @kalenderjawa](https://github.com/kalenderjawa)
-
-🤖 [Twitter 👉 @kalenderjawadev](https://twitter.com/KalenderJawaDev)
-
-This is pro bono project and dedicated for Javanese Calendar library development.
-
+☕ Arabica Papua Wamena & Robusta Aceh
