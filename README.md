@@ -1,10 +1,10 @@
 
 Hello 👋, My name is Equan Pr.
 
-🎯 Learning Blockchain
+🎯 Currently Learning Blockchain
 
-⚒️ Vue.js, Node.js & MongoDB
+⚒️ I 💘 Vue.js, Node.js & MongoDB
 
-🧑‍💻 Windows 11 + WSL
+🧑‍💻 I use Windows 11 + WSL
 
-☕ Arabica Papua Wamena & Robusta Aceh
+☕ I 💖 Arabica Papua Wamena & Robusta Aceh
