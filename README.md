@@ -7,4 +7,4 @@ Hello 👋, My name is Equan Pr.
 
 🧑‍💻 I use Windows 11 + WSL
 
-☕ I 💖 Arabica Papua Wamena & Robusta Aceh
+☕ I 💖 Arabica Papua Wamena, Robusta Aceh & masih banyak lagi 😁✌️
