@@ -1,7 +1,7 @@
 
 Hello 👋, My name is Equan Pr.
 
-🎯 Currently Learning Blockchain
+🎯 Currently Learning Blockchain & Web3 Things
 
 ⚒️ I 💘 JavaScript
 
