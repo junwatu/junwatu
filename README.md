@@ -1,5 +1,5 @@
 
-Hello 👋, My name is Equan Pr.
+Hello 👋, My name is Equan Pr (nickname ia Quan)
 
 🎯 Currently Learning Blockchain & Web3 Things
 
