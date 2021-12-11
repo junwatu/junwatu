@@ -1,5 +1,6 @@
-```
+
 Hello 👋, 
+
 My name is Equan Pr. (nickname is Quan)
 
 🎯 Currently Learning Blockchain & Web3 Things
@@ -11,4 +12,4 @@ My name is Equan Pr. (nickname is Quan)
 🧑‍💻 I use Windows 11 + WSL
 
 ☕ I 💖 Coffee so much! 😁✌️
-```
+
