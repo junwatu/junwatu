@@ -1,6 +1,3 @@
-
-![ETH](https://github.com/junwatu/junwatu/raw/master/eth_black.jpg)
-
 ```
 Hello 👋, 
 My name is Equan Pr. (nickname is Quan)
