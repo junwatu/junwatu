@@ -1,5 +1,9 @@
 
-Hello 👋, My name is Equan Pr (nickname ia Quan)
+![ETH](https://github.com/junwatu/junwatu/raw/master/eth_black.jpg)
+
+```
+Hello 👋, 
+My name is Equan Pr. (nickname is Quan)
 
 🎯 Currently Learning Blockchain & Web3 Things
 
@@ -9,4 +13,5 @@ Hello 👋, My name is Equan Pr (nickname ia Quan)
 
 🧑‍💻 I use Windows 11 + WSL
 
-☕ I 💖 Coffee so much! (especially Arabica Papua Wamena & Robusta Aceh)
+☕ I 💖 Coffee so much! 😁✌️
+```
