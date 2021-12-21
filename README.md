@@ -3,7 +3,6 @@ Hello 👋,
 
 My name is Equan Pr. (nickname is Quan)
 
-🎯 Currently Learning Blockchain & Web3 Things
 
 ⚒️ I 💘 JavaScript
 
@@ -13,3 +12,4 @@ My name is Equan Pr. (nickname is Quan)
 
 ☕ I 💖 Coffee so much! 😁✌️
 
+🎯 Currently Learning Blockchain & Web3 Things
