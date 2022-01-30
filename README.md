@@ -1,7 +1,5 @@
 
-**Hello 👋, I am Equan Pr.**
-
-*(you can call me Quan)* 😁✌️
+**Hello 👋, I am Equan Pr. (or Quan)**
 
 **👨‍💻 About Me**
 
