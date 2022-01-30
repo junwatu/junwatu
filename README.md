@@ -25,5 +25,4 @@ Javanese calendar is arithmatic based calendar too and it's passed by generation
 
 Read more about Javanese calendar 👉 [kalenderjawa.dev](https://kalenderjawa.dev/)
 
----
 Thank You
