@@ -1,10 +1,18 @@
 
-Hello 👋, 
+**Hello 👋, I am Equan Pr.**
 
-My name is Equan Pr. (nickname is Quan)
+*(you can call me Quan)* 😁✌️
 
-⚒️ I 💘 JavaScript
+**👨‍💻 About Me**
 
-☕ I 💖 Coffee & Heavy Metal! 😁✌️
+Since I'm on Github so I am definitely not a singer.
 
-🎯 Maintainer of [Pustaka Kalender Jawa](https://github.com/kalenderjawa)
+Here are the things i Love since 2007:
+
+- I 💘 JavaScript
+
+- I 💖 Coffee & Heavy Metal! 😁✌️
+
+**🌕 Projects**
+
+Currently I am the maintainer of [Pustaka Kalender Jawa](https://github.com/kalenderjawa)
