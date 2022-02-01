@@ -23,6 +23,6 @@ Javanese calendar is arithmatic based calendar too and it's passed by generation
 
 ![Javanese Calendar Math Formula](https://cdn.caknun.com/media/2019/01/20190102-menek-kalender-4.jpg)
 
-Read more about Javanese calendar 👉 [kalenderjawa.dev](https://kalenderjawa.dev/)
+Read more about Javanese calendar at [kalenderjawa.dev](https://kalenderjawa.dev/)
 
 Thank You
