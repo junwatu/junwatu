@@ -26,4 +26,13 @@ Javanese calendar is arithmatic based calendar too and it's passed by generation
 
 Read more about Javanese calendar at [kalenderjawa.dev](https://kalenderjawa.dev/)
 
+**🎯 Books**
+
+[Pengenalan Node.js: Melalui Web Aplikasi](https://play.google.com/store/books/details?id=pdOfDwAAQBAJ)
+
+It's beginner friendly about JavaScript programming in Node.js and this book is written in Bahasa Indonesia.
+
+![cover-node.js](https://books.google.com/books/publisher/content/images/frontcover/pdOfDwAAQBAJ?fife=w200-h300)
+
+
 Thank You
