@@ -30,7 +30,7 @@ Read more about Javanese calendar at [kalenderjawa.dev](https://kalenderjawa.dev
 
 [Pengenalan Node.js: Melalui Web Aplikasi](https://play.google.com/store/books/details?id=pdOfDwAAQBAJ)
 
-It's beginner friendly about JavaScript programming in Node.js and this book is written in Bahasa Indonesia.
+It's beginner friendly book about JavaScript programming in Node.js and this book is written in Bahasa Indonesia only.
 
 ![cover-node.js](https://books.google.com/books/publisher/content/images/frontcover/pdOfDwAAQBAJ?fife=w200-h300)
 
