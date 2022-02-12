@@ -9,7 +9,7 @@ Here are the things i Love since 2007:
 
 - I 💘 JavaScript
 
-- I 💖 Coffee & Heavy Metal! 😁✌️
+- I 💖 Coffee, Batik & Heavy Metal! 😁✌️
 
 **🌕 Projects**
 
