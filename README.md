@@ -19,7 +19,7 @@ Here are the things i Love since 2007:
  
 **Javanese Calendar Math Formula**
 
-Javanese calendar is arithmatic based calendar too and it's passed by generation to the next generation mostly by math formulas but ironically these days not so many new generation know or aware about the knowledge.
+Javanese calendar is arithmetic based calendar too and it's passed by generation to the next generation mostly by math formulas but ironically these days not so many new generation know or aware about the knowledge.
 
 ![Javanese Calendar Math Formula](https://cdn.caknun.com/media/2019/01/20190102-menek-kalender-4.jpg)
 [(*sumber gambar*)](https://www.caknun.com/2019/kalender-jowo-digowo-kalender-arab-digarap-kalender-barat-diruwat)
