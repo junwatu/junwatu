@@ -5,7 +5,7 @@
 
 Since I'm on Github so I am definitely not a singer.
 
-- I 💘 JavaScript
+- I 💘 JavaScript (since 2011)
 
 - I 💖 Coffee, Batik & Heavy Metal! 😁✌️
 
