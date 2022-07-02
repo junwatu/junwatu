@@ -3,7 +3,7 @@
 
 **👨‍💻 About Me**
 
-Since I'm on Github so I am definitely not a singer.
+Programmer, Writer & Maker.
 
 - I 💘 JavaScript (since 2011)
 
