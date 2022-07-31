@@ -1,6 +1,6 @@
 **👨‍💻 About Me**
 
-Programmer, Writer & Maker.
+Programmer & Writer
 
 - I 💘 JavaScript (since 2011)
 
