@@ -1,6 +1,3 @@
-
-**Hello 👋, I am Equan Pr. (or Quan)**
-
 **👨‍💻 About Me**
 
 Programmer, Writer & Maker.
