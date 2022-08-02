@@ -6,13 +6,13 @@ Programmer & Writer
 
 - I 💖 Coffee, Batik & Heavy Metal! 😁✌️
 
-**🌕 Projects**
+**🚀 Projects**
 
-**Full-stack Projects**
+🌟 **Full-stack Projects**
 
 Full-stack projects (on progress). Check my repositories.
 
-[Pustaka Kalender Jawa](https://github.com/kalenderjawa)
+🌟 [Pustaka Kalender Jawa](https://github.com/kalenderjawa)
 
 **Pustaka** is JavaScript library for Javanese Calendar, this calendar is moon based calendar system and has been used by Javanese for many purposes in daily life till these days since 14th century.
  
@@ -25,7 +25,7 @@ Javanese calendar is arithmetic based calendar too and it's passed by generation
 
 Read more about Javanese calendar at [kalenderjawa.dev](https://kalenderjawa.dev/)
 
-**🎯 Books**
+🌟 **Books**
 
 [Pengenalan Node.js: Melalui Web Aplikasi](https://play.google.com/store/books/details?id=pdOfDwAAQBAJ) (Gratis! 😁)
 
