@@ -1,16 +1,8 @@
 **👨‍💻 About Me**
 
-Programmer & Writer
-
-- I 💘 JavaScript (since 2011)
-
-- I 💖 Coffee, Batik & Heavy Metal! 😁✌️
+Software Developer & Writer. I 💘 JavaScript and Node.js. I 💖 Coffee, Batik, Heavy Metal and Movie! 😁✌️
 
 **🚀 Projects**
-
-🌟 **Full-stack Projects**
-
-Full-stack projects (on progress). Check my repositories.
 
 🌟 [Pustaka Kalender Jawa](https://github.com/kalenderjawa)
 
@@ -39,6 +31,17 @@ It's beginner friendly book about JavaScript programming in Node.js and this boo
 
 <a href="https://play.google.com/store/books/details?id=pdOfDwAAQBAJ"><img src="https://github.com/junwatu/junwatu/raw/master/google-play-badge-small.png"></a>
 
-Thank You
+
+🌟 **CLI Application**
+
+[Potoku](https://junwatu.github.io/potoku-bin/) - Windows random wallpaper from Unsplash. 
+
+
+🌟 **Full-stack Application**
+
+Full-stack projects (on progress). Check my repositories.
+
+---
+💓 Thank You
 
 
