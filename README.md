@@ -32,12 +32,12 @@ It's beginner friendly book about JavaScript programming in Node.js and this boo
 <a href="https://play.google.com/store/books/details?id=pdOfDwAAQBAJ"><img src="https://github.com/junwatu/junwatu/raw/master/google-play-badge-small.png"></a>
 
 
-🌟 **CLI Application**
+🌟 **CLI Applications**
 
 [Potoku](https://junwatu.github.io/potoku-bin/) - Windows random wallpaper from Unsplash. 
 
 
-🌟 **Full-stack Application**
+🌟 **Full-stack Applications**
 
 Full-stack projects (on progress). Check my repositories.
 
