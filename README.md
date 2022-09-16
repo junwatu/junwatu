@@ -1,6 +1,6 @@
 **👨‍💻 About Me**
 
-Software Developer & Writer. I 💘 JavaScript and Node.js. I 💖 Coffee, Batik, Heavy Metal and Movie! 😁✌️
+Software Developer (JavaScript)
 
 **🚀 Projects**
 
