@@ -1,6 +1,6 @@
 **👨‍💻 About Me**
 
-Software Developer (JavaScript)
+Software Developer (JavaScript) ⚡ Maker
 
 **🚀 Projects**
 
