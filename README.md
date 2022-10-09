@@ -4,7 +4,7 @@ Software Engineer ⚡ Maker
 
 **👨‍💻 Tech Stacks**
 
-> JavaScript, Node.js, React.js, Vue.js, REST API, GraphQL, Express.js, Unit Testing (Jest), E2E (Playwright), MongoDB, MySQL, CockroachDB
+> JavaScript, Node.js, React.js, Vue.js, Express.js, REST API, GraphQL, Unit Testing (Jest), E2E (Playwright), MongoDB, MySQL, CockroachDB
 
 **🚀 Projects**
 
