@@ -44,11 +44,3 @@ It's a beginner-friendly book about JavaScript programming in Node.js written in
 [Potoku](https://junwatu.github.io/potoku-bin/) - Windows random wallpaper from Unsplash. 
 
 
-🌟 **Full-stack Applications**
-
-Full-stack projects (on progress). Check my repositories.
-
----
-💓 Thank You
-
-
