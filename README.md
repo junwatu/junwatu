@@ -4,7 +4,7 @@ Software Engineer ⚡ Maker
 
 **👨‍💻 Tech Stacks**
 
-> JavaScript, Node.js, React.js (+ Vue.js), Express.js, MongoDB (+ MySQL, CockroachDB), Amazon Web Services.
+> JavaScript, Node.js, React.js (+ Vue.js), Express.js, MongoDB (+ MySQL, CockroachDB), Amazon Web Services, STM32.
 
 **🚀 Projects**
 
