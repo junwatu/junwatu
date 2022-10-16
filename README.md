@@ -10,7 +10,7 @@ Web Application
 
 Hardware
 
-> STNM32
+> STM32
 
 **🚀 Projects**
 
