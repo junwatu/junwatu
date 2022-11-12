@@ -6,11 +6,8 @@ Software Engineer ⚡ Maker
 
 Web Application
 
-> JavaScript, Node.js, React.js (+ Vue.js), Express.js, MongoDB (+ MySQL, CockroachDB), Amazon Web Services.
+> JavaScript, Node.js, React.js, Express.js, MongoDB (+ MySQL, CockroachDB), Amazon Web Services.
 
-Hardware
-
-> STM32
 
 **🚀 Projects**
 
@@ -30,7 +27,6 @@ Javanese calendar is an arithmetic-based calendar and passed from generation to 
 
 Read more about Javanese calendar at [kalenderjawa.dev](https://kalenderjawa.dev/)
 
-💵 [Sponsor Kalender Jawa](https://github.com/sponsors/kalenderjawa)
 
 <br>
 
@@ -44,9 +40,5 @@ It's a beginner-friendly book about JavaScript programming in Node.js written in
 
 <a href="https://play.google.com/store/books/details?id=pdOfDwAAQBAJ"><img src="https://github.com/junwatu/junwatu/raw/master/google-play-badge-small.png"></a>
 
-
-🌟 **CLI Applications**
-
-[Potoku](https://junwatu.github.io/potoku-bin/) - Windows random wallpaper from Unsplash. 
 
 
