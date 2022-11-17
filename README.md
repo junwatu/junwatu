@@ -1,6 +1,6 @@
 **👋🏼 About Me**
 
-Software Engineer ⚡ Maker
+Software Engineer
 
 **👨‍💻 Tech Stacks**
 
