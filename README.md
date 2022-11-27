@@ -1,6 +1,6 @@
 **👋🏼 About Me**
 
-Software and Hardware Engineer
+Software (and Hardware) Engineer
 
 **👨‍💻 Tech Stacks**
 
