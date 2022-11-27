@@ -1,4 +1,4 @@
-👋🏼, I am Equan from Indonesia.
+👋🏼 Hi, I am Equan from Indonesia.
 
 I build software and mostlty web applications.
 
