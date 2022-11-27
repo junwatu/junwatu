@@ -1,7 +1,10 @@
 👋🏼, I am Equan from Indonesia.
 
-I use these techs: JavaScript, Node.js, React.js, Express.js, MongoDB (+ MySQL, CockroachDB), Amazon Web Services, Raspberry Pi, Arduino, and STM32.
+I build software and mostlty web applications.
 
+👨🏼‍💻 Tech Stacks
+
+JavaScript, Node.js, React.js, Express.js, MongoDB (+ MySQL, CockroachDB), Amazon Web Services, Raspberry Pi, Arduino, and STM32.
 
 **🚀 Projects**
 
