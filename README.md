@@ -2,8 +2,8 @@
 
 Software (and Hardware) Engineer
 
-**👨‍💻 Tech Stacks**
-
+> 👨‍💻 Tech Stacks
+> 
 > JavaScript, Node.js, React.js, Express.js, MongoDB (+ MySQL, CockroachDB), Amazon Web Services, Raspberry Pi, Arduino, STM32.
 
 
