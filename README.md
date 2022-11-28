@@ -10,7 +10,9 @@ JavaScript, Node.js, React.js, Express.js, MongoDB (+ MySQL, CockroachDB), Amazo
 
 🌟 [Pustaka Kalender Jawa](https://github.com/kalenderjawa)
 
-**Pustaka** is JavaScript library for Javanese Calendar. Javanese calendar is a moon-based calendar system. Javanese using it for many purposes in daily life till these days since the 14th century.
+**Pustaka** is JavaScript library for Javanese Calendar. 
+
+> Javanese calendar is a moon-based calendar system. Javanese using it for many purposes in daily life till these days since the 14th century.
 
 🌟 [Articard](https://github.com/junwatu/articard)
 
