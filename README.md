@@ -6,6 +6,8 @@ I build software and mostlty web applications.
 
 JavaScript, Node.js, React.js, Express.js, MongoDB (+ MySQL, CockroachDB), Amazon Web Services, Raspberry Pi, Arduino, and STM32.
 
+> ⌚ currently learning: Rust, Blockchain, AI 
+
 **🚀 Projects**
 
 🌟 [Pustaka Kalender Jawa](https://github.com/kalenderjawa)
