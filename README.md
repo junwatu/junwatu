@@ -8,9 +8,9 @@ I started learning programming in 2007. My first is AT89C51 Assembly and then a 
 
 **Currently these are the techs that I use most**:
 
-JavaScript, Node.js, React.js, Express.js, MongoDB (+ MySQL, CockroachDB), Amazon Web Services, Raspberry Pi, Arduino, and STM32.
+JavaScript, Node.js, React.js, Express.js, MongoDB and MySQL.
 
-> ⌚ currently learning: Rust, Blockchain, AI 
+> ⌚ learning:  CockroachDB, Amazon Web Services, Rust, Blockchain, AI 
 
 **🚀 Projects**
 
