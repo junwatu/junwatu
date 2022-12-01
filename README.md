@@ -1,5 +1,6 @@
 ```
-👋🏼 Hi, 
+👋🏼 Hi,
+
 I am Equan from Indonesia.
 I build software and web applications.
 ```
