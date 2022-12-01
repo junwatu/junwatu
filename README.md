@@ -1,10 +1,12 @@
 👋🏼 Hi, I am Equan from Indonesia.
 
-I build software and mostlty web applications. 
+I build software and web applications. 
 
 👨🏼‍💻 Tech Stacks
 
-I starting learning programming in 2007. My first is AT89C51 Assembly and then a little C/C++, ColdFusion, PHP, .NET, and in 2012 I starting to learn web development and currently these aret the techs that I use most:
+I started learning programming in 2007. My first is AT89C51 Assembly and then a little C/C++, ColdFusion, PHP, and .NET, and in 2012 I started to learn web development. 
+
+**Currently these are the techs that I use most**:
 
 JavaScript, Node.js, React.js, Express.js, MongoDB (+ MySQL, CockroachDB), Amazon Web Services, Raspberry Pi, Arduino, and STM32.
 
@@ -14,7 +16,7 @@ JavaScript, Node.js, React.js, Express.js, MongoDB (+ MySQL, CockroachDB), Amazo
 
 🌟 [Pustaka Kalender Jawa](https://github.com/kalenderjawa)
 
-**Pustaka** is JavaScript library for Javanese Calendar. 
+**Pustaka** is a JavaScript library for the Javanese Calendar. 
 
 > Javanese calendar is a moon-based calendar system. Javanese using it for many purposes in daily life till these days since the 14th century.
 
@@ -27,7 +29,4 @@ JavaScript, Node.js, React.js, Express.js, MongoDB (+ MySQL, CockroachDB), Amazo
 🌟  [Pengenalan Node.js: Melalui Web Aplikasi](https://play.google.com/store/books/details?id=pdOfDwAAQBAJ)
 
 It's a beginner-friendly book about JavaScript programming in Node.js written in Bahasa Indonesia.
-
-
-
 
