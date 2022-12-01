@@ -1,8 +1,10 @@
 👋🏼 Hi, I am Equan from Indonesia.
 
-I build software and mostlty web applications.
+I build software and mostlty web applications. 
 
 👨🏼‍💻 Tech Stacks
+
+I starting learning programming in 2007. My first is AT89C51 Assembly and then a little C/C++, ColdFusion, PHP, .NET, and in 2012 I starting to learn web development and currently these aret the techs that I use most:
 
 JavaScript, Node.js, React.js, Express.js, MongoDB (+ MySQL, CockroachDB), Amazon Web Services, Raspberry Pi, Arduino, and STM32.
 
