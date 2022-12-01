@@ -14,7 +14,7 @@ I build software and web applications.
 | 2007 - 2009     | Assembly AT89C51 |
 | 2010 - 2012     | Java, Coldfusion, PHP |
 | 2012 - Present  | JavaScript, Node.js, React.js, Express.js, MongoDB, MySQL |
-| 2021 - Present  | CockroachDB, Amazon Web Services, Rust, Blockchain, AI    |  
+| 2021 - Present  | TypeScript, Rust, CockroachDB, Amazon Web Services, Blockchain, AI |  
 
 <br/>
 
