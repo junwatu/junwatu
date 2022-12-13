@@ -32,7 +32,7 @@ I build software and web applications.
 
 **Articard** is an art history card web application.
 
-> This app build with MERN stack and Redis as cache.
+> This app build with MERN stack, Redis as cache and Microservices in mind.
 
 <br/>
 
