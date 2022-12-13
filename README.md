@@ -32,11 +32,13 @@ I build software and web applications.
 
 **Articard** is an art history card web application.
 
+> This app build with MERN stack and Redis as cache.
+
 <br/>
 
 **📚 Books**
 
 [Pengenalan Node.js: Melalui Web Aplikasi](https://play.google.com/store/books/details?id=pdOfDwAAQBAJ)
 
-It's a beginner-friendly book about JavaScript programming in Node.js written in Bahasa Indonesia.
+It's a beginner-friendly book about JavaScript programming in Node.js [Bahasa Indonesia].
 
