@@ -1,7 +1,7 @@
 ```
 👋🏼 Hi,
 
-I am Equan from Indonesia.
+I am Equan P. from Indonesia.
 I build software and web applications.
 
 🦀
