@@ -44,3 +44,6 @@ I build software and web applications.
 
 It's a beginner-friendly book about JavaScript programming in Node.js [Bahasa Indonesia].
 
+[Rust: Pemrograman Sistem Real-Time pada STM32F7](https://github.com/junwatu/junwatu/edit/master/README.md)
+
+*Still on progress*
