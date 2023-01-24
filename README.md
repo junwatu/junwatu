@@ -18,7 +18,7 @@ I 💖 hardware design and programming too.
 | 2010 - 2012     | Java, Coldfusion, PHP |
 | 2012 - Present  | JavaScript, Node.js, React.js, Express.js, MongoDB, MySQL |
 | 2016 - 2019     | C#, Unity |
-| 2021 - Present  | TypeScript, Rust, CockroachDB, Amazon Web Services, Blockchain, AI |
+| 2021 - Present  | TypeScript, Rust, Amazon Web Services, Blockchain, AI |
 | 2022 - Present  | STM32 Microcontrollers (STM32F4, STM32F7) |
 
 <br/>
