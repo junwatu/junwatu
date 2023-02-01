@@ -7,7 +7,6 @@ I am Equan P. from Indonesia.
 I build software and web applications.
 I 💖 AI, programming & hardware design.
 
-🤖
 ```
 
 <br/>
