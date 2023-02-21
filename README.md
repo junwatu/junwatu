@@ -16,7 +16,7 @@ I 💖 AI, programming & hardware design.
 | Year            | Techs            |
 |-----------------|-----------------:|
 | 2007 - 2009     | Assembly AT89C51 |
-| 2010 - 2012     | Java, Coldfusion, PHP |
+| 2010 - 2012     | Java, Coldfusion, PHP, ActionScript 3 |
 | 2012 - Present  | JavaScript, Node.js, React.js, Express.js, MongoDB, MySQL |
 | 2016 - 2019     | C#, Unity |
 | 2021 - Present  | TypeScript, Rust, Amazon Web Services |
