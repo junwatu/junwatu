@@ -28,7 +28,8 @@ I 💖 AI, programming & hardware design.
 **🚀 Projects**
 
 [The AI Enthusiast](https://junwatu.com)
-Technical site about AI and Generative AI apps development.
+
+Insights about the latest AI developments, and technical development guides for creating Generative AI apps. This site is the go-to destination for AI enthusiasts at all levels of expertise.
 
 [Articard](https://github.com/junwatu/articard)
 
