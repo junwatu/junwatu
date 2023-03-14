@@ -27,17 +27,20 @@ I 💖 AI, programming & hardware design.
 
 **🚀 Projects**
 
-[Pustaka Kalender Jawa](https://github.com/kalenderjawa)
-
-**Pustaka** is a JavaScript library for the Javanese Calendar. 
-
-> Javanese calendar is a moon-based calendar system. Javanese using it for many purposes in daily life till these days since the 14th century.
+[The AI Enthusiast](https://junwatu.com)
+Technical site about AI and Generative AI apps development.
 
 [Articard](https://github.com/junwatu/articard)
 
 **Articard** is an art history card web application.
 
 > This app build with MERN stack, Redis as cache and Microservices in mind.
+
+[Pustaka Kalender Jawa](https://github.com/kalenderjawa)
+
+**Pustaka** is a JavaScript library for the Javanese Calendar. 
+
+> Javanese calendar is a moon-based calendar system. Javanese using it for many purposes in daily life till these days since the 14th century.
 
 <br/>
 
