@@ -9,6 +9,10 @@ I 💖 AI, programming & hardware design.
 
 ```
 
+**✨ For Business**
+
+[🔘 Visit my Upwork profile](https://www.upwork.com/freelancers/equan)
+
 <br/>
 
 **👨🏼‍💻 Tech Stacks**
