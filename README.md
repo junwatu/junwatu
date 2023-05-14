@@ -11,7 +11,7 @@ I 💖 AI, programming & hardware design.
 
 **✨ For Business**
 
-[🔘 Hire Me: Upwork](https://www.upwork.com/freelancers/equan)
+[🔘 Hire Me 👉 Upwork](https://www.upwork.com/freelancers/equan)
 
 <br/>
 
