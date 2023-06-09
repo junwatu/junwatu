@@ -9,7 +9,7 @@ I build software and I 💖 AI.
 
 **✨ For Business**
 
-🧑‍💻 [Upwork](https://www.upwork.com/freelancers/equan)
+[Upwork](https://www.upwork.com/freelancers/equan)
 
 <br/>
 
