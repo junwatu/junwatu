@@ -22,19 +22,9 @@ These are my tech history:
 
 [The AI Enthusiast](https://junwatu.com)
 
-Insights about the latest AI developments, and technical development guides for creating Generative AI apps. This site is the go-to destination for AI enthusiasts at all levels of expertise.
-
 [Articard](https://github.com/junwatu/articard)
 
-**Articard** is an art history card web application.
-
-> This app build with MERN stack, Redis as cache and Microservices in mind.
-
 [Pustaka Kalender Jawa](https://github.com/kalenderjawa)
-
-**Pustaka** is a JavaScript library for the Javanese Calendar. 
-
-> Javanese calendar is a moon-based calendar system. Javanese using it for many purposes in daily life till these days since the 14th century.
 
 <br/>
 
