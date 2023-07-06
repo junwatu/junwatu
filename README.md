@@ -1,15 +1,10 @@
-```
-👋🏼 Hi,
+# 👋🏼 Hi,
 
 I am Equan P. from Indonesia.
-I build software and I 💖 AI.
-```
 
-**✨ For Business** 👉 [Upwork](https://www.upwork.com/freelancers/equan)
+Currently, I'm working remotely from a few job marketplaces (👉 [Upwork](https://www.upwork.com/freelancers/equan)).
 
-<br/>
-
-**👨🏼‍💻 Tech Stacks**
+These are my tech history:
 
 | Year            | Techs            |
 |-----------------|-----------------:|
