@@ -1,5 +1,3 @@
-![AI_Banner](wallpaper.jpg)
-
 ```
 👋🏼 Hi,
 
