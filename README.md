@@ -5,9 +5,7 @@ I am Equan P. from Indonesia.
 I build software and I 💖 AI.
 ```
 
-**✨ For Business**
-
-[Upwork](https://www.upwork.com/freelancers/equan)
+**✨ For Business** 👉 [Upwork](https://www.upwork.com/freelancers/equan)
 
 <br/>
 
