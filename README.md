@@ -1,6 +1,6 @@
 # 👋🏼 Hi,
 
-I am Equan P. from Indonesia. I am a Generative AI developer. I love code and art and currently, I am working remotely on several job marketplaces, such as [**Upwork**](https://www.upwork.com/freelancers/equan).
+My name is Equan P. and I am from Indonesia. I work as a Generative AI developer and Technical Writer. I have a passion for both coding and art, and currently, I am working remotely on several job marketplaces, such as [**Upwork**](https://www.upwork.com/freelancers/equan).
 
 I have learned a lot in the past, and here is my tech history:
 
