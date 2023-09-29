@@ -4,6 +4,6 @@
 
 # 👋🏼 Hi, I am [`Equan P.`](https://twitter.com/junwatu)
 
-These are my areas of expertise: `Developing Generative AI Applications` and `Writing Technical Content`. Thank You! 🙏
+These are my areas of expertise: `Writing Technical Content` and `Developing Generative AI Applications`. Thank You! 🙏
 
 
