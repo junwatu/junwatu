@@ -6,8 +6,6 @@ These are my areas of expertise:
 
 🔆 `Developing Generative AI Applications`
 
-Thank You! 
-
-🙏
+Thank You! 🙏
 
 
