@@ -2,7 +2,7 @@
 
 These are my areas of expertise: 
 
-🤑 `Technical Writing (Blog, Documentation, Tutorials)` 
+⚡️ `Technical Writing (Blog, Documentation, Tutorials)` 
 
 🔆 `Developing Generative AI Applications`
 
