@@ -4,7 +4,7 @@ These are my areas of expertise:
 
 ⚡️ `Technical Writing (Blog, Documentation, Tutorials)` 
 
-🔆 `Developing Generative AI Applications using JavaScript`
+🔆 `Developing Generative AI Applications`
 
 Thank You! 🙏
 
