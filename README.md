@@ -4,6 +4,8 @@
 
 🔆 `Developing Generative AI Applications`
 
+🔆 `Developing Full-stack JavaScript Applications`
+
 
 
 
