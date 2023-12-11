@@ -4,9 +4,10 @@
 
 ## Developer
 
-`Generative AI Applications`
-`Full-stack JavaScript Applications`
-
+`Generative AI`
+`Full-stack` 
+`JavaScript` 
+`Node.js`
 
 
 
