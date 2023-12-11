@@ -4,10 +4,11 @@
 
 ## Developer
 
-`Generative AI`
 `Full-stack` 
-`JavaScript` 
+`JavaScript`
+`Generative AI`
 `Node.js`
+`Next.js`
 
 
 
