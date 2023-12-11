@@ -1,10 +1,11 @@
-# These are my areas of expertise: 
+# Who am I? 
 
-⚡️ `Technical Writing (Blog, API Documentation, Tutorials)` 
+`Technical Writer (Blog, API Documentation, Tutorials)` 
 
-🔆 `Developing Generative AI Applications`
+## Developer
 
-🔆 `Developing Full-stack JavaScript Applications`
+`Generative AI Applications`
+`Full-stack JavaScript Applications`
 
 
 
