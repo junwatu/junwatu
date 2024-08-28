@@ -2,6 +2,8 @@
 
 I am a Technical Writer for SaaS documentation, API documentation, API integration, tutorials, and blogs. I have a software engineering background and experience in full-stack web development since 2014.
 
+If you are in need of a high-quality blog on AI, Node.js, or JavaScript, or if you require a technical writer for your project, feel free to contact me directly.
+
 ## 🏆  Portofolio
 
 **🎖️  Blog Writer at GridDB**  `(2023 - Present)`
