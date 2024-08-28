@@ -2,7 +2,7 @@
 
 I am a Technical Writer for SaaS documentation, API documentation, API integration, tutorials, and blogs. I have a software engineering background and experience in full-stack web development since 2014.
 
-If you are in need of a high-quality blog on AI, Node.js, or JavaScript, or if you require a technical writer for your project, feel free to contact me directly.
+If you are in need of a high-quality blog on AI, Node.js, or JavaScript, or if you require a technical writer for your project, feel free to [contact me](mailto:equan.p@gmail.com) directly.
 
 ## 🏆  Portofolio
 
@@ -38,3 +38,4 @@ My role is writing documentation explaining the FHIR concept and related API, ho
 My role is writing detailed documentation for developers with the target reader, explaining how to use their product and how to integrate ROQ's API into new or existing applications.
 
 ![roq doc](/images/roq-doc.png)
+
