@@ -6,7 +6,7 @@ I am a Technical Writer for SaaS documentation, API documentation or integration
 
 **🎖️  Blog Writer at GridDB**  `(2023 - Present)`
 
-> [GridDB™](https://griddb.net) is a highly scalable, in-memory NoSQL time series database optimized for IoT and Big Data.
+[GridDB™](https://griddb.net) is a highly scalable, in-memory NoSQL time series database optimized for IoT and Big Data.
 
 My role is writing unique technical articles, on how to use GridDB with Node.js applications.
 
@@ -22,7 +22,7 @@ My role is writing unique technical articles, on how to use GridDB with Node.js 
 
 **🎖️  Technical Writer at Ovok** `(2024)`
 
-> [Ovok](https://ovok.com) is API-first digital health enablement platform for developers.
+[Ovok](https://ovok.com) is API-first digital health enablement platform for developers.
 
 My role is writing documentation explaining the FHIR concept and related API, how to integrate API into new or existing application, write sample applications and write detailed user manual how to use their dashboard. 
 
@@ -31,7 +31,7 @@ My role is writing documentation explaining the FHIR concept and related API, ho
 
 **🎖️  Technical Writer at ROQ.dev** `(2023)`
 
-> [ROQ](https://roq.dev) is a managed backend for multi-tenant SaaS applications. 
+[ROQ](https://roq.dev) is a managed backend for multi-tenant SaaS applications. 
 
 My role is writing detailed documentation for developers with the target reader, explaining how to use their product and how to integrate ROQ's API into new or existing applications.
 
