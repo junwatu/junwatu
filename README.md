@@ -1,12 +1,12 @@
 ## 🧑🏻‍💻  Hi, I am Equan P.
 
-I am a Technical Writer for SaaS documentation, API documentation or integration, and blogs. I have a software engineering background and experience in full-stack web development since 2014.
+I am a Technical Writer for SaaS documentation, API documentation, API integration, and blogs. I have a software engineering background and experience in full-stack web development since 2014.
 
 ## 🏆  Portofolio
 
 **🎖️  Blog Writer at GridDB**  `(2023 - Present)`
 
-[GridDB™](https://griddb.net) is a highly scalable, in-memory NoSQL time series database optimized for IoT and Big Data.
+[GridDB™](https://griddb.net) is a highly scalable, in-memory NoSQL time-series database optimized for IoT and Big Data.
 
 My role is writing unique technical articles, on how to use GridDB with Node.js applications.
 
@@ -22,9 +22,9 @@ My role is writing unique technical articles, on how to use GridDB with Node.js 
 
 **🎖️  Technical Writer at Ovok** `(2024)`
 
-[Ovok](https://ovok.com) is API-first digital health enablement platform for developers.
+[Ovok](https://ovok.com) is an API-first digital health enablement platform for developers.
 
-My role is writing documentation explaining the FHIR concept and related API, how to integrate API into new or existing application, write sample applications and write detailed user manual how to use their dashboard. 
+My role is writing documentation explaining the FHIR concept and related API, how to integrate API into new or existing applications, writing sample applications, and writing detailed user manuals on how to use their dashboard. 
 
 ![ovok doc](/images/ovok-doc.png)
 
