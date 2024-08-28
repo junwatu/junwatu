@@ -37,6 +37,10 @@ My role is writing detailed documentation for developers with the target reader,
 
 ![roq doc](/images/roq-doc.png)
 
+## 📚 Currently Learning
+SaaS development, Sales & Marketing, and AI/ML.
+
 ## 👔  Gigs
 
 If you are in need of a high-quality blog on AI, Node.js, or JavaScript, or if you require a technical writer for your project, feel free to [contact me](mailto:equan.p@gmail.com) directly or better, [**hire me!**](https://www.upwork.com/freelancers/equan) 😎.
+
