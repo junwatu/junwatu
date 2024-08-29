@@ -24,7 +24,7 @@ My role is writing unique technical articles, on how to use GridDB with Node.js 
 
 [Ovok](https://ovok.com) is an API-first digital health enablement platform for developers.
 
-My role is writing documentation explaining the FHIR concept and related API, how to integrate API into new or existing applications, writing sample applications, and writing detailed user manuals on how to use their dashboard. 
+My role is writing documentation explaining the FHIR concept and Ovok's related API, integrating API into new or existing applications, writing sample applications, and writing detailed user manuals on using their dashboard.
 
 ![ovok doc](/images/ovok-doc.png)
 
