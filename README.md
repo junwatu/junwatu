@@ -38,7 +38,7 @@ My role is writing detailed documentation for developers with the target reader,
 ![roq doc](/images/roq-doc.png)
 
 ## 📚 Currently Learning
-AI/ML.
+AI/ML Development, AI Applications & Integrations.
 
 ## 👔  Gigs
 
