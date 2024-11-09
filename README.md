@@ -12,6 +12,8 @@ My role is writing unique technical articles, on how to use GridDB with Node.js 
 
 <details>
   <summary><i>Article Highlights</i></summary>
+
+  - [Automate Slide Creation Using OpenAI and Node.js](https://griddb.net/en/blog/automate-slide-creation-using-openai-and-node-js/)
   
   - [Building Video Summarizer Using AI](https://griddb.net/en/blog/building-video-summarizer-using-ai/)
   
