@@ -6,4 +6,4 @@ I am a solopreneur and founder of [Junwatu Indie Hacker](https://junwatu.com). I
 
 ## 🏆  Portofolio
 
-You can learn a lot about me on my company website, [here](https://www.junwatu.com/about).
+You can learn a lot about me, [here](https://www.junwatu.com/about).
