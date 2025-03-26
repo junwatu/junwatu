@@ -12,7 +12,6 @@ This [game](https://bus.junwatu.com) is 100% made by AI using Three.js engine. F
 
 Feel free to try and I hope you enjoy it 😁
 
-![game](images/bus.jpeg)
 
 ## 🏆  Portfolio
 
