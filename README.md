@@ -4,9 +4,9 @@ I am a solopreneur and founder of [Junwatu Indie Hacker](https://junwatu.com). I
 
 ## 🎮 Current Projects
 
-### 🚌 bus.junwatu.com
+### 🚌 Play Tank Up!
 
-This [game](https://bus.junwatu.com) is 100% made by AI using Three.js engine. Fast loading and no gigas updates!. 
+This [game](https://playtankup.com) is 100% made by AI using Three.js engine. Fast loading and no gigas updates!. 
 
 Feel free to try and I hope you enjoy it. 😁
 
