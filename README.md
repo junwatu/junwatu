@@ -18,3 +18,10 @@ I am a solopreneur and founder of [JIH](https://junwatu.com).
 - 🍛 **[Puasa App](https://puasa-mac.vercel.app)**, a macOS menu bar app that shows accurate Ramadan iftar times based on your location.
 - 🌡️ **[Puasa CLI](https://github.com/junwatu/puasa-cli)**, accurate Ramadan iftar times based on your location, available as a CLI version.
 - 🌊 **[Flood Explorer](https://banjir.junwatu.com)**, desktop app to explore flood in Indonesia. 
+
+## X Articles
+
+- [Get Started With  MiniMax M2.1 and OpenAI Agents](https://x.com/junwatu/status/2009777531352973425?s=20)
+- [Cara Mudah Instal Qwen 3.5-9B Hugging Face Pake Claude](https://x.com/junwatu/status/2029517361158779249?s=20)
+- [Panduan Memilih Model AI Lokal: Memahami RAM, Quantization, dan Ukuran Model](https://x.com/junwatu/status/2031540834051747886?s=20)
+- [Vibe Coding Log #1](https://x.com/junwatu/status/2032104184234065972?s=20)
