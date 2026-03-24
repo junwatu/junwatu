@@ -17,4 +17,4 @@ I am a solopreneur and founder of [JIH](https://junwatu.com).
 - 🌒 **[DintenJawa](https://dintenjawa-web.vercel.app)**, a macOS menu bar app for javanese calendar.
 - 🍛 **[Puasa App](https://puasa-mac.vercel.app)**, a macOS menu bar app that shows accurate Ramadan iftar times based on your location.
 - 🌡️ **[Puasa CLI](https://github.com/junwatu/puasa-cli)**, accurate Ramadan iftar times based on your location, available as a CLI version.
-
+- 🌊 **[Flood Explorer](https://banjir.junwatu.com)**, desktop app to explore flood in Indonesia. 
