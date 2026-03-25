@@ -25,3 +25,7 @@ I am a solopreneur and founder of [JIH](https://junwatu.com).
 - [Cara Mudah Instal Qwen 3.5-9B Hugging Face Pake Claude](https://x.com/junwatu/status/2029517361158779249?s=20)
 - [Panduan Memilih Model AI Lokal: Memahami RAM, Quantization, dan Ukuran Model](https://x.com/junwatu/status/2031540834051747886?s=20)
 - [Vibe Coding Log #1](https://x.com/junwatu/status/2032104184234065972?s=20)
+
+## Others
+
+I write regularly about things. I build and learn. Explore my articles [here](https://www.junwatu.com/writings).
