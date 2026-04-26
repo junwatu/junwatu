@@ -19,7 +19,7 @@ I am a solopreneur and founder of [JIH](https://junwatu.com).
 - 🍛 **[Puasa App](https://puasa-mac.vercel.app)**, a macOS menu bar app that shows accurate Ramadan iftar times based on your location.
 - 🌡️ **[Puasa CLI](https://github.com/junwatu/puasa-cli)**, accurate Ramadan iftar times based on your location, available as a CLI version.
 - 🌊 **[Flood Explorer](https://banjir.junwatu.com)**, desktop app to explore flood in Indonesia.
-- ☕️ **[Kalkulator Kopi](https://kalkulator-kopi.junwatu.com/)**, coffee calculator web app to calculato cost saving if you brew coffee at home.
+- ☕️ **[Kalkulator Kopi](https://kalkulator-kopi.junwatu.com/)**, coffee calculator web app to calculate cost saving if you brew coffee yourself at home.
 
 ## X Articles
 
