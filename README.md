@@ -10,6 +10,7 @@ I am a solopreneur and founder of [JIH](https://junwatu.com).
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 
 
+
 ## Current Projects
 
 - 📅 **[Pustaka](https://github.com/kalenderjawa/pustaka)**, a javanese calendar JS/TS libray.
@@ -17,7 +18,8 @@ I am a solopreneur and founder of [JIH](https://junwatu.com).
 - 🌒 **[DintenJawa](https://dintenjawa-web.vercel.app)**, a macOS menu bar app for javanese calendar.
 - 🍛 **[Puasa App](https://puasa-mac.vercel.app)**, a macOS menu bar app that shows accurate Ramadan iftar times based on your location.
 - 🌡️ **[Puasa CLI](https://github.com/junwatu/puasa-cli)**, accurate Ramadan iftar times based on your location, available as a CLI version.
-- 🌊 **[Flood Explorer](https://banjir.junwatu.com)**, desktop app to explore flood in Indonesia. 
+- 🌊 **[Flood Explorer](https://banjir.junwatu.com)**, desktop app to explore flood in Indonesia.
+- ☕️ **[Kalkulator Kopi](https://kalkulator-kopi.junwatu.com/)**, coffee calculator web app to calculato cost saving if you brew coffee at home.
 
 ## X Articles
 
