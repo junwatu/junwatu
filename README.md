@@ -23,10 +23,12 @@ I am a solopreneur and founder of [JIH](https://junwatu.com).
 
 ## X Articles
 
+- [Vibe Coding Log #1](https://x.com/junwatu/status/2032104184234065972?s=20)
+- [Vibe Coding Log #2](https://x.com/junwatu/status/2039681803544605174?s=20)
 - [Get Started With  MiniMax M2.1 and OpenAI Agents](https://x.com/junwatu/status/2009777531352973425?s=20)
 - [Cara Mudah Instal Qwen 3.5-9B Hugging Face Pake Claude](https://x.com/junwatu/status/2029517361158779249?s=20)
 - [Panduan Memilih Model AI Lokal: Memahami RAM, Quantization, dan Ukuran Model](https://x.com/junwatu/status/2031540834051747886?s=20)
-- [Vibe Coding Log #1](https://x.com/junwatu/status/2032104184234065972?s=20)
+
 
 ## Others
 
