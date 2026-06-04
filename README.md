@@ -16,6 +16,7 @@ I am a solopreneur and founder of [JIH](https://junwatu.com).
 ## Datasets
 
 - 💽 **[Indonesian Recipes](https://huggingface.co/datasets/junwatu/indonesian-recipes)**, A structured collection of Indonesian recipes for fine-tuning text-generation models. Each row is a single recipe with a title, an ingredient list, and ordered preparation steps.
+- 💽 **[Javanese Multilingual Lexicon](https://huggingface.co/datasets/junwatu/javanese-multilingual-lexicon)**, A multilingual lexicon dataset of 202,912 entries derived from Sastra.org, a digital archive of Javanese literary heritage.
 
 ## Projects
 
