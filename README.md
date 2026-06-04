@@ -9,9 +9,15 @@ I am a solopreneur and founder of [JIH](https://junwatu.com).
 ![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 
+## Models
 
+- 🧠 **[junwatu/resep-ID-chat-gemma-4-E4B-it](https://huggingface.co/junwatu/resep-ID-chat-gemma-4-E4B-it)**, A full fine-tune of google/gemma-4-E4B-it that writes Indonesian recipes the way Indonesian home cooks actually write them — short, structured, and with the right bumbu.
 
-## Current Projects
+## Datasets
+
+- 💽 **[Indonesian Recipes](https://huggingface.co/datasets/junwatu/indonesian-recipes)**, A structured collection of Indonesian recipes for fine-tuning text-generation models. Each row is a single recipe with a title, an ingredient list, and ordered preparation steps.
+
+## Projects
 
 - 📅 **[Pustaka](https://github.com/kalenderjawa/pustaka)**, a javanese calendar JS/TS libray.
 - 🚌 **[PlayTankUp](https://playtankup.vercel.app/)**, not a bus simulator is a game 100% built with AI.
