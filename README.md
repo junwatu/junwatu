@@ -18,15 +18,6 @@ I am a solopreneur and founder of [JIH](https://junwatu.com).
 - 💽 **[Indonesian Recipes](https://huggingface.co/datasets/junwatu/indonesian-recipes)**, A structured collection of Indonesian recipes for fine-tuning text-generation models. Each row is a single recipe with a title, an ingredient list, and ordered preparation steps.
 - 💽 **[Javanese Multilingual Lexicon](https://huggingface.co/datasets/junwatu/javanese-multilingual-lexicon)**, A multilingual lexicon dataset of 202,912 entries derived from Sastra.org, a digital archive of Javanese literary heritage.
 
-## Projects
-
-- 📅 **[Pustaka](https://github.com/kalenderjawa/pustaka)**, a javanese calendar JS/TS libray.
-- 🚌 **[PlayTankUp](https://playtankup.vercel.app/)**, not a bus simulator is a game 100% built with AI.
-- 🌒 **[DintenJawa](https://dintenjawa-web.vercel.app)**, a macOS menu bar app for javanese calendar.
-- 🍛 **[Puasa App](https://puasa-mac.vercel.app)**, a macOS menu bar app that shows accurate Ramadan iftar times based on your location.
-- 🌡️ **[Puasa CLI](https://github.com/junwatu/puasa-cli)**, accurate Ramadan iftar times based on your location, available as a CLI version.
-- 🌊 **[Flood Explorer](https://banjir.junwatu.com)**, desktop app to explore flood in Indonesia.
-- ☕️ **[Kalkulator Kopi](https://kalkulator-kopi.junwatu.com/)**, coffee calculator web app to calculate cost saving if you brew coffee yourself at home.
 
 ## X Articles
 
