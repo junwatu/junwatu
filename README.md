@@ -1,6 +1,12 @@
 # Hi, I am Equan P. 👋🏼 
 
-I am a solopreneur and founder of [JIH](https://junwatu.com).
+Founder of [JUNWATU](https://junwatu.com) | Indie Hacker | AI Product Builder
+
+I'm an independent builder and software engineer from Indonesia, exploring the intersection of artificial intelligence, software engineering, and product development.
+I founded JUNWATU INDIE HACKER, an Indonesian AI product company focused on building AI-native products, intelligent agents, developer tools, and practical applications of emerging technologies.
+I believe in building lean, experimenting continuously, and turning ideas into working products.
+
+Build. Experiment. Ship. Repeat.
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
