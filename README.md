@@ -1,23 +1,54 @@
-# Hi, I am Equan P. 👋🏼 
+# Hi, I'm Equan P. 👋
 
-Founder of [JUNWATU](https://junwatu.com) | Indie Hacker | AI Product Builder
+**Founder of [JUNWATU](https://junwatu.com) | AI Engineer**
 
 I'm an independent builder and software engineer from Indonesia, exploring the intersection of artificial intelligence, software engineering, and product development.
-I founded JUNWATU INDIE HACKER, an Indonesian AI product company focused on building AI-native products, intelligent agents, developer tools, and practical applications of emerging technologies.
+
+I founded **JUNWATU INDIE HACKER**, an Indonesian AI product company focused on building AI-native products, intelligent agents, developer tools, and practical applications of emerging technologies.
+
 I believe in building lean, experimenting continuously, and turning ideas into working products.
 
-Build. Experiment. Ship. Repeat.
+**Build. Experiment. Ship. Repeat.**
 
-## Models
+### 🚀 What I'm Building
 
-- 🧠 **[junwatu/resep-ID-chat-gemma-4-E4B-it](https://huggingface.co/junwatu/resep-ID-chat-gemma-4-E4B-it)**, A full fine-tune of google/gemma-4-E4B-it that writes Indonesian recipes the way Indonesian home cooks actually write them — short, structured, and with the right bumbu.
+At **[JUNWATU](https://junwatu.com)**, I'm exploring and developing:
 
-## Datasets
+- **AI-Native Products:** Applications designed around AI capabilities from the ground up.
+- **Agentic AI:** Intelligent agents, tool use, orchestration, and human-supervised workflows.
+- **Generative AI:** Experiments and applications involving language, images, video, and multimodal models.
+- **Developer Tools:** Practical utilities, automation, and AI-assisted development workflows.
+- **Open Research:** Models, datasets, and experiments shared with the developer community.
 
-- 💽 **[Indonesian Recipes](https://huggingface.co/datasets/junwatu/indonesian-recipes)**, A structured collection of Indonesian recipes for fine-tuning text-generation models. Each row is a single recipe with a title, an ingredient list, and ordered preparation steps.
-- 💽 **[Javanese Multilingual Lexicon](https://huggingface.co/datasets/junwatu/javanese-multilingual-lexicon)**, A multilingual lexicon dataset of 202,912 entries derived from Sastra.org, a digital archive of Javanese literary heritage.
+### 🧠 Models
 
+- **[Indonesian Recipe Chat Model](https://huggingface.co/junwatu/resep-ID-chat-gemma-4-4B-it)**
+  A fine-tuned conversational model exploring structured Indonesian home-cooking recipes, ingredients, and preparation instructions.
 
-## Articles
+### 📚 Datasets
 
-I write regularly about things. I build and learn. Explore my articles [here](https://www.junwatu.com/writings).
+- **[Indonesian Recipes](https://huggingface.co/datasets/junwatu/indonesian-recipes)**
+  A structured collection of Indonesian recipes, including ingredients and ordered preparation steps.
+
+- **[Javanese Multilingual Lexicon](https://huggingface.co/datasets/junwatu/javanese-multilingual-lexicon)**
+  A multilingual lexical resource exploring the Javanese language and its literary heritage.
+
+### 🔬 Current Interests
+
+- Agentic AI and autonomous workflows
+- Large language models and multimodal systems
+- Model Context Protocol (MCP) and tool integration
+- Human-supervised AI systems
+- AI-native product design and rapid prototyping
+- Open-source models and local-language AI
+
+### 🌐 Connect
+
+- **Company:** [JUNWATU](https://junwatu.com)
+- **LinkedIn:** [JUNWATU INDIE HACKER](https://www.linkedin.com/company/junwatu-indie-hacker)
+- **Hugging Face:** [huggingface.co/junwatu](https://huggingface.co/junwatu)
+- **GitHub:** [github.com/junwatu](https://github.com/junwatu)
+
+---
+
+*Curiosity drives the experiments. Engineering turns them into products.*
